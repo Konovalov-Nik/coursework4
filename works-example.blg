@@ -1,0 +1,16 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: works-example.aux
+The style file: gost780uv.bst
+Database file #1: thesis.bib
+Warning--entry type for "Skvortsov_2008" isn't style-file defined
+--line 82 of file thesis.bib
+I was expecting a `,' or a `}'---line 112 of file thesis.bib
+ :   
+ :   YEAR =         {1987},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--empty title in Segall_1968
+Warning--empty booktitle in Agranovich_1983
+Warning--empty journal in Perelman_2003_math:0307245
+Warning--empty journal in Nielsen_2010_1006.2735
+Warning--empty year in matrix_87
+(There was 1 error message)
