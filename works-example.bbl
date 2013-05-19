@@ -1,4 +1,4 @@
-\begin{thebibliography}{10}
+\begin{thebibliography}{1}
 \def\selectlanguageifdefined#1{
 \expandafter\ifx\csname date#1\endcsname\relax
 \else\language\csname l@#1\endcsname\fi}
@@ -9,75 +9,16 @@
 \ifx\undefined\BibAnnote\def\BibAnnote#1{}\else\fi
 \ifx\undefined\BibSection\def\BibSection#1#2#3{}\else\fi
 
-\bibitem{Yoffe_1993_AP_42_173}
+\bibitem{google_announcement}
 \selectlanguageifdefined{english}
-\BibAuthor{Yoffe,~A.~D.} \BibTitle{Low-dimensional systems: quantum size
-  effects and electronic properties of semiconductor microcrystallites
-  (zero-dimensional systems) and some quasi-two-dimensional systems}~/ A.~D.
-  Yoffe~// \emph{Adv. Phys.} "---
-\newblock 1993. "---
-\newblock Vol.~42. "---
-\newblock Pp.~173--266.
-
-\bibitem{Efros_1982_FTP_16_7_1209}
-\selectlanguageifdefined{russian}
-\BibAuthor{Эфрос,~{\relax Ал}.~.} \BibTitle{Межзонное поглощение света в
-  полупроводниковом шаре}~/ {\relax Ал}.~. Эфрос, .~. Эфрос~// \emph{Физика и
-  техника полупроводников}. "---
-\newblock 1982. "---
-\newblock \CYRT.~16, {\cyr\textnumero}~7. "---
-\newblock {\cyr\CYRS.}~1209--1214.
-
-\bibitem{Anselm_1978}
-\selectlanguageifdefined{russian}
-\BibAuthor{Ансельм,~.~.} \BibTitle{Введение в теорию полупроводников}~/ .~.
-  Ансельм. "---
-\newblock Москва: Наука, 1978.
-
-\bibitem{Segall_1968}
-\selectlanguageifdefined{english}
-\BibAuthor{Segall,~B.}~// Proceedings of IXth Conference on the Physics of
-  Semiconductors, Moscow, 1968~/ Ed. by S.~M. Ryvkin. "---
-\newblock Leningrad: Nauka, 1968. "---
-\newblock P.~425.
-
-\bibitem{Agranovich_1983}
-\selectlanguageifdefined{english}
-\BibTitle{Spectroscopy and Excitation Dynamics of Condensed Molecular
-  Systems}~/ Ed. by V.~M. Agranovich, R.~M. Hochstrasser. "---
-\newblock Modern Problems in Condensed Matter Sciences. Amsterdam:
-  North-Holland, 1983.
-
-\bibitem{InP}
-\selectlanguageifdefined{english}
-\BibTitle{Inp basic parameters at 300 k}~// Electronic archive New
-  Semiconductor Materials. Characteristics and Properties~/ Ioffe
-  Physico-Technical Institute. "---
-\newblock St. Petersburg, 2001.
-  \BibUrl{http://www.ioffe.rssi.ru/SVA/NSM/Semicond/InP/basic.html}.
-
-\bibitem{Mishchenko_1996}
-\selectlanguageifdefined{russian}
-\BibAuthor{Мищенко,~.~.} \BibTitle{Неупругое рассеяние света в системе
-  взаимодействующих электронов и фононов}: Ph.D. thesis~/ ИТФ им. Л.~Д.~Ландау.
-  "---
-\newblock 1996.
+\BibTitle{Mapreduce: Simplified data processing on large clusters}.
+  \BibUrl{http://research.google.com/archive/mapreduce.html}.
 
 \bibitem{Skvortsov_2008}
 \selectlanguageifdefined{russian}
 \BibAuthor{Скворцов,~.~.} \BibTitle{Флуктуационные и интерференционные эффекты
   в мезоскопических системах}. "---
 \newblock 2008.
-
-\bibitem{Perelman_2003_math:0307245}
-\selectlanguageifdefined{english}
-\BibAuthor{Perelman,~G.} \BibTitle{Finite extinction time for the solutions to
-  the ricci flow on certain three-manifolds}~/ G.~Perelman.
-
-\bibitem{Nielsen_2010_1006.2735}
-\selectlanguageifdefined{english}
-\BibAuthor{Nielsen,~E.} \BibTitle{A configuration interaction analysis of
-  exchange in double quantum dots}~/ E.~Nielsen, R.~P. Muller.
 
 \bibitem{matrix_87}
 \selectlanguageifdefined{english}

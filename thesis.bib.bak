@@ -1,5 +1,5 @@
-@MISC{google_announcement,
-  title        = {MapReduce: Simplified Data Processing on Large Clusters},
+@MISC{url,
+  title        = {Google announcement},
   url          = {http://research.google.com/archive/mapreduce.html},
   urldate      = {18.05.2013},
 }
